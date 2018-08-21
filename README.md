@@ -1,4 +1,4 @@
-# Android-RSAEncrypt (NDK)
+# Android RSA Encryption (NDK)
 
 This app has been created as example to test the encryption and decryption of RSA using openssl.
 
